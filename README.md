@@ -1,5 +1,5 @@
 # Vladimir Zelenko
-## Hi there 👋. My name is Vladimir I'm 36 years old. I have been working in the field of HSE in the mining and oil industries for about 10 years. I have a bachelor's degree in Labor protection and a Master's degree in Economics. I am now a certified BI analyst and I wanna be a real professional in this profession
+## Hi there 👋. My name is Vladimir I'm 36 years old. I have been working in the field of HSE in the mining and oil industries for about 10 years. I have a bachelor's degree in Labor protection and a Master's degree in Economics. I am now a certified BI analyst and I wanna be a real professional in this profession. So I have studied SQL, Python and I have experience in such BI systems as DataLens and Apache Superset. I'm ready to improve these skills.
 <!--
 **vladimir-zelenko/vladimir-zelenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
