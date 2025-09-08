@@ -4,7 +4,7 @@
 **vladimir-zelenko/vladimir-zelenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-Hi everyone! My name is Vladimir i`m 36 years old. I have been working in the field of HSE in the mining and oil industries for about 10 years. I have a bachelor`s degree in Labor protection and a Master`s degree in Economics.
+## Hi everyone! My name is Vladimir i`m 36 years old. I have been working in the field of HSE in the mining and oil industries for about 10 years. I have a bachelor`s degree in Labor protection and a Master`s degree in Economics.
 I am now a certified BI analyst
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
